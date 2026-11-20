@@ -42,7 +42,9 @@ The motivation for this project is to explore historical credit card client data
 
 ## Repository Structure
 
-```text
+```
+CA1-Data-Exploration-Preparation-DEP-/
+├── README.md
 ├── dataset/
 │   └── default of credit card clients.xls
 ├── notebook/
@@ -54,7 +56,9 @@ The motivation for this project is to explore historical credit card client data
 │   ├── visualization_4.png
 │   ├── visualization_5.png
 │   └── visualization_6.png
-└── README.md
+└── poster/
+    └── CA1_DATA_EXPLORATION_&_PREPARATION_CREDIT_CARD_DEFAULTS.pptx
+
 ```
 
 ---
